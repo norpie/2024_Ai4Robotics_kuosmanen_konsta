@@ -1,0 +1,8 @@
+human-detection/models
+human-detection/data
+human-detection/output
+human-detection/.ipynb_checkpoints
+lanes/pics
+lanes/vids
+human-detection/securityCamVideos.zip
+notebooks
