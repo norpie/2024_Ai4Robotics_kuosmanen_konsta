@@ -6,3 +6,7 @@ lanes/pics
 lanes/vids
 human-detection/securityCamVideos.zip
 notebooks
+objects/.venv
+objects/images
+hands/.venv
+hands/gesture_recognizer.task
