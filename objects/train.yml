@@ -1,0 +1,4 @@
+train: ./images/benchy
+val: ./valid/images
+nc: 1
+names: ['benchy']
